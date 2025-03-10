@@ -4,7 +4,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/abhayverma78471" target="blank"><img src="https://img.shields.io/twitter/follow/abhayverma78471?logo=twitter&style=for-the-badge" alt="abhayverma78471" /></a> </p>
-<img align="right" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/9e/75/9f/9e759fd37ccd98da121b670249f34afa.gif">
 
 
 - 😈 I’m currently learning **DSA in Java , Web development , FrameWorks ,Databases**
@@ -51,7 +51,7 @@
 
 
 <br>
-  <img   width="100%"  src="https://gifdb.com/images/high/matrix-code-pixel-rainbow-pride-program-8tz6xxzfuyzq5prs.gif">
+  <img   width="100%"  src="https://i.pinimg.com/originals/7c/f5/d9/7cf5d95ac563cb1688f99f23019de969.gif">
 </p>
 
 <br>
