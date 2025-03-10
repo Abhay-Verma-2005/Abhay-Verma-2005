@@ -56,7 +56,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-verma-2005&" alt="abhay-verma-2005" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-verma-2005&" alt="abhay-verma-2005" /></p>
 
   <img   width="100%"  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 Hi, I’m Abhay Verma, a second-year B.Tech Computer Science
