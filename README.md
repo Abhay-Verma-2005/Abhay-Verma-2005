@@ -51,11 +51,11 @@
 
 
 <br>
-  <img   width="100%" height="300" src="https://64.media.tumblr.com/e85d4e1a60f19b2c62bb7a88a73eabc5/tumblr_o7vs1zNO341runoqyo2_540.gif">
+  <img  width="100%" height="300" src="https://64.media.tumblr.com/e85d4e1a60f19b2c62bb7a88a73eabc5/tumblr_o7vs1zNO341runoqyo2_540.gif">
 </p>
 
 <br>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-verma-2005&" alt="abhay-verma-2005" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-verma-2005" alt="abhay-verma-2005" /></p>
   <img   width="100%"  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 Hi, I’m Abhay Verma, a second-year B.Tech Computer Science
 student at GLA University with a passion for technology.
