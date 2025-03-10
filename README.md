@@ -69,6 +69,5 @@ I’m truly excited to grow and contribute in tech.
 <br>
 <br>
 <br>
-<br>
  WELCOME to Visit. . . . . !!!
 
