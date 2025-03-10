@@ -4,7 +4,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/abhayverma78471" target="blank"><img src="https://img.shields.io/twitter/follow/abhayverma78471?logo=twitter&style=for-the-badge" alt="abhayverma78471" /></a> </p>
-<img align="right" width="400" src="https://i.redd.it/f0u78fr3dpk61.gif">
+<img align="right" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 
 - 😈 I’m currently learning **DSA in Java , Web development , FrameWorks ,Databases**
