@@ -32,6 +32,9 @@
 <a href="https://auth.geeksforgeeks.org/user/abhayverma5545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayverma5545" height="30" width="40" /></a>
 </p>
 <br><br>
+  
+<h3 align="left"> MY Badges:</h3>
+<img src="https://github.com/Abhay-Verma-2005/Abhay-Verma-Files/blob/main/OCI25FNDCFA.jpeg" height="280" width="360">
  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <h3 align="left">Languages and Tools:</h3>
